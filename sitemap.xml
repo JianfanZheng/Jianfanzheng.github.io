@@ -2,20 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://Jianfanzheng.github.io/post/experiences/</loc>
+    <loc>https://jianfanzheng.github.io/post/experiences/</loc>
   </url><url>
-    <loc>https://Jianfanzheng.github.io/post/hobbies/</loc>
+    <loc>https://jianfanzheng.github.io/post/hobbies/</loc>
   </url><url>
-    <loc>https://Jianfanzheng.github.io/post/publications/</loc>
+    <loc>https://jianfanzheng.github.io/post/publications/</loc>
   </url><url>
-    <loc>https://Jianfanzheng.github.io/subheader/</loc>
+    <loc>https://jianfanzheng.github.io/post/researches/</loc>
   </url><url>
-    <loc>https://Jianfanzheng.github.io/categories/</loc>
+    <loc>https://jianfanzheng.github.io/subheader/</loc>
   </url><url>
-    <loc>https://Jianfanzheng.github.io/</loc>
+    <loc>https://jianfanzheng.github.io/categories/</loc>
   </url><url>
-    <loc>https://Jianfanzheng.github.io/post/</loc>
+    <loc>https://jianfanzheng.github.io/</loc>
   </url><url>
-    <loc>https://Jianfanzheng.github.io/tags/</loc>
+    <loc>https://jianfanzheng.github.io/post/</loc>
+  </url><url>
+    <loc>https://jianfanzheng.github.io/tags/</loc>
   </url>
 </urlset>
