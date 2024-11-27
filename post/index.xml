@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Initio - Free, multipurpose html5 template by GetTemplate</title>
-    <link>https://Jianfanzheng.github.io/</link>
-    <description>Recent content on Initio - Free, multipurpose html5 template by GetTemplate</description>
+    <title>Posts on Initio - Free, multipurpose html5 template by GetTemplate</title>
+    <link>https://Jianfanzheng.github.io/post/</link>
+    <description>Recent content in Posts on Initio - Free, multipurpose html5 template by GetTemplate</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="https://Jianfanzheng.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://Jianfanzheng.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Experiences</title>
       <link>https://Jianfanzheng.github.io/post/experiences/</link>
@@ -27,13 +27,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://Jianfanzheng.github.io/post/publications/</guid>
       <description>&lt;h3 id=&#34;2024&#34;&gt;2024&lt;/h3&gt;&#xA;&lt;p&gt;Yang, X., Li, T., Chen, T., &lt;strong&gt;Zheng, J.&lt;/strong&gt;, &amp;amp; Li, W. (2024). Incorporation of Al into diatom frustule as a proxy of seawater Al/Si ratios in the Antarctic Zone of the Southern ocean: Implications for surface silicic acid concentrations during the last glacial period. &amp;lt; Quaternary Science Reviews &amp;gt; &lt;a href=&#34;https://doi.org/10.1016/j.quascirev.2024.108724&#34;&gt;URL&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;2023&#34;&gt;2023&lt;/h3&gt;&#xA;&lt;p&gt;T. Chen, &lt;strong&gt;J. Zheng&lt;/strong&gt;, T. Li, X. Shi, L. F. Robinson, M. Wang, G. Li, H. Ling, X. Ren, J. Ji, Thorium isotope evidence for glacial–interglacial dust storminess and productivity in the North Pacific gyre. &amp;lt;Geochim. Cosmochim. Acta.&amp;gt; &lt;a href=&#34;https://doi.org/10.1016/j.gca.2023.01.007&#34;&gt;URL&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://Jianfanzheng.github.io/subheader/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://Jianfanzheng.github.io/subheader/</guid>
-      <description>&lt;h4 id=&#34;hi-there-im-jianfan-a-phd-candidate-of-marine-geochemistry-welcome-to-my-site&#34;&gt;Hi there, I&amp;rsquo;m Jianfan, a PhD candidate of marine geochemistry. Welcome to my site!&lt;/h4&gt;&#xA;&lt;p&gt;My current works focus on:&lt;/p&gt;&#xA;&lt;h4 id=&#34;marine-variations-during-orbital-and-millennial-climate-changes&#34;&gt;&lt;strong&gt;Marine variations during orbital and millennial climate changes.&lt;/strong&gt;&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Quantifying the lithogenic dust flux input to the ocean by U-Th isotopes.&lt;/li&gt;&#xA;&lt;li&gt;Reconstruction of paleo ocean circulation by Pa/Th.&lt;/li&gt;&#xA;&lt;li&gt;Exploring the impact of iron-fertilization on marine productivity.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;the-burial-patterns-of-components-and-elements-at-the-seawater-sediment-interface&#34;&gt;&lt;strong&gt;The burial patterns of components and elements at the seawater-sediment interface.&lt;/strong&gt;&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Looking into the budgets and burial mechanisms of various elements (such as: Fe, Mn, Co, Ni, Cu, Zn) to the seafloor.&lt;/li&gt;&#xA;&lt;li&gt;Investigating the kinetics of solute transportation at the seafloor through constraints from U-Th isotopes.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;em&gt;In my spare time l enjoy music, sports and writing.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
